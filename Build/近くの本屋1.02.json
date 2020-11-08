@@ -1,0 +1,15 @@
+{
+"companyName": "tikakunohonya",
+"productName": "tikakunohonya",
+"productVersion": "1.0",
+"dataUrl": "近くの本屋1.02.data.unityweb",
+"wasmCodeUrl": "近くの本屋1.02.wasm.code.unityweb",
+"wasmFrameworkUrl": "近くの本屋1.02.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
